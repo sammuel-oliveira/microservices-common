@@ -1,0 +1,19 @@
+{
+    "name": "sammuel-oliveira/microservices-common",
+    "description": "Package Files Utils Microservice Courses",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sammuel Oliveira",
+            "email": "sammuelalmeida@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "SammuelOliveira\\MicroservicesCommon\\": "src/"
+        }
+    }
+}
